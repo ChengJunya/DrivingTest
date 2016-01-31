@@ -45,7 +45,7 @@
         self.mSwitch = [[UISwitch alloc]init];
 
         //监听事件
-        [_mSwitch addTarget:self action:@selector(valueChange:) forControlEvents:UIControlEventValueChanged];
+        [self.mSwitch addTarget:self action:@selector(valueChange:) forControlEvents:UIControlEventValueChanged];
     }
     return _mSwitch;
 }

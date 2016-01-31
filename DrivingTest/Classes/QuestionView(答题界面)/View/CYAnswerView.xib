@@ -239,6 +239,7 @@
                 <constraint firstItem="qqv-Pu-7NH" firstAttribute="trailing" secondItem="0TM-K0-Atm" secondAttribute="trailing" id="yV2-7n-SuC"/>
                 <constraint firstItem="TD1-ik-56I" firstAttribute="top" secondItem="An5-jP-FWv" secondAttribute="bottom" constant="1" id="yd4-Xm-e8z"/>
             </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
             <connections>
                 <outlet property="btnA" destination="eCK-uA-KJA" id="hDu-Vd-mCO"/>
